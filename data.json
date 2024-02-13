@@ -6,7 +6,7 @@
         "expire": "",
         "ttl": "600",
         "priority": "1",
-        "sound": "siren"
+        "sound": "bugle"
     },
     "Headed your way": {
         "retry": "",
