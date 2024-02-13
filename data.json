@@ -1,0 +1,29 @@
+{
+    "Good Morning!": {
+        "retry": "",
+        "title": "School Pickup",
+        "message": "Good Morning! Just making sure you're awake! Message me in discord so I know you're up! \ud83d\ude09",
+        "expire": "",
+        "ttl": "600",
+        "priority": "1",
+        "sound": ""
+    },
+    "Headed your way": {
+        "retry": "",
+        "title": "School Pickup",
+        "message": "Headed your way now!",
+        "expire": "",
+        "ttl": "600",
+        "priority": "1",
+        "sound": ""
+    },
+    "We're Here": {
+        "retry": "60",
+        "message": "We're Here!",
+        "expire": "40",
+        "ttl": "",
+        "priority": "2",
+        "title": "URGENT: SCHOOL PICKUP",
+        "sound": "alien"
+    }
+}
