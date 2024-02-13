@@ -6,7 +6,7 @@
         "expire": "",
         "ttl": "600",
         "priority": "1",
-        "sound": ""
+        "sound": "siren"
     },
     "Headed your way": {
         "retry": "",
@@ -15,7 +15,7 @@
         "expire": "",
         "ttl": "600",
         "priority": "1",
-        "sound": ""
+        "sound": "siren"
     },
     "We're Here": {
         "retry": "60",
