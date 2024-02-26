@@ -15,7 +15,7 @@
         "expire": "",
         "ttl": "600",
         "priority": "1",
-        "sound": "siren"
+        "sound": "bugle"
     },
     "We're Here": {
         "retry": "60",
@@ -24,6 +24,6 @@
         "ttl": "",
         "priority": "2",
         "title": "URGENT: SCHOOL PICKUP",
-        "sound": "alien"
+        "sound": "bugle"
     }
 }
