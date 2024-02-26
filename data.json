@@ -25,5 +25,14 @@
         "priority": "2",
         "title": "URGENT: SCHOOL PICKUP",
         "sound": "bugle"
+    },
+       "\uD83D\uDEA8 We're Here \uD83D\uDEA8": {
+        "retry": "60",
+        "message": "We're Here!",
+        "expire": "40",
+        "ttl": "",
+        "priority": "2",
+        "title": "URGENT: SCHOOL PICKUP",
+        "sound": "alien"
     }
 }
