@@ -4,35 +4,44 @@
         "title": "School Pickup",
         "message": "Good Morning! Just making sure you're awake! Message me in discord so I know you're up! \ud83d\ude09",
         "expire": "",
-        "ttl": "600",
+        "ttl": "3600",
         "priority": "1",
         "sound": "bugle"
     },
     "Headed your way": {
-        "retry": "",
+        "retry": "60",
         "title": "School Pickup",
         "message": "Headed your way now!",
-        "expire": "",
-        "ttl": "600",
-        "priority": "1",
+        "expire": "40",
+        "ttl": "900",
+        "priority": "2",
         "sound": "bugle"
     },
     "We're Here": {
-        "retry": "60",
+        "retry": "30",
         "message": "We're Here!",
-        "expire": "40",
+        "expire": "45",
         "ttl": "",
         "priority": "2",
         "title": "URGENT: SCHOOL PICKUP",
         "sound": "bugle"
     },
        "\uD83D\uDEA8 We're Here \uD83D\uDEA8": {
-        "retry": "60",
+        "retry": "30",
         "message": "We're Here!",
-        "expire": "40",
+        "expire": "45",
         "ttl": "",
         "priority": "2",
         "title": "URGENT: SCHOOL PICKUP",
         "sound": "alien"
+    },
+    "You going to school tomorrow?": {
+        "retry": "60",
+        "message": "Are you going to school tomorrow? If not, I need to know ASAP! Message me in discord.",
+        "expire": "130",
+        "ttl": "",
+        "priority": "2",
+        "title": "Going to school tomorrow?P",
+        "sound": "bugle"
     }
 }
