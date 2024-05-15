@@ -29,7 +29,7 @@
        "\uD83D\uDEA8 We're Here \uD83D\uDEA8": {
         "retry": "30",
         "message": "We're Here!",
-        "expire": "45",
+        "expire": "20",
         "ttl": "",
         "priority": "2",
         "title": "URGENT: SCHOOL PICKUP",
